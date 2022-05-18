@@ -1,8 +1,6 @@
-# fennec
+# Fennec
 
 モジュラー型音声信号処理ライブラリ
-
-**作り始めたばかりなので実態はまだ無い**
 
 ## 特徴
 
@@ -11,20 +9,13 @@
 - モジュールを動的に繋ぎ変えたり、  
   モジュールのパラメータを動的に変えることができる
 - 入出力はファイルまたはデバイスを選択可能
-- Cで書かれたライブラリ
+- モジュールの入出力は数値や文字列などの配列
 - クロスプラットフォーム(Linux, Windows, OS X)
+- Goで書かれたライブラリ
 
 ## API
 
-草案
-
-```
-fennec_init()
-fennec_start()
-fennec_add_plugin()
-fennec_update_module_chain()
-fennec_update_module_parameters()
-```
+hoge
 
 ## TODO
 
